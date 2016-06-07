@@ -1,2 +1,2 @@
 # DemoCIWithBootstrap
-codeigniter,Bootstrp ,mysql
+codeigniter,Bootstrap ,mysql
